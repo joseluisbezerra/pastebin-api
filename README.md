@@ -1,5 +1,5 @@
 # Pastebin
-Projeto de uma API simples de pastebin
+Projeto de uma simples API REST de pastebin feito com o Django REST Framework
 
 # Dependências
 - python - Versão 3.5+
